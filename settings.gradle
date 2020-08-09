@@ -1,2 +1,2 @@
-include ':app', ':upipay'
+include ':app', ':upi'
 rootProject.name='library_upipay'
